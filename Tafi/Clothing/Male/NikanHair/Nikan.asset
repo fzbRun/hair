@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 686dbd22bcb83e14cafcfcb69ad10c5c, type: 3}
+  m_Name: Nikan
+  m_EditorClassIdentifier: 
+  Morphs: []
+  MorphEnabled: 
+  TargetPolyCount: 0000000000000000
+  MaxPolyCount: d00d020000d10000
+  CharTargetPolyCount: 0
+  CharMaxPolyCount: 32392
+  BaseCharacter: {fileID: 11400000, guid: 8cc9f0aa8a61fbb4db37770c7f3537ac, type: 2}
+  Character: {fileID: 0}
+  Clothing:
+  - {fileID: 11400000, guid: 2d6031bd482874b4094fcd4611247c93, type: 2}
+  - {fileID: 11400000, guid: 1e7de1459589f5b4d9fd41799e8bf62a, type: 2}
+  AdditionalMorphs: []
+  AdditionalGroups: []
+  DeleteHiddenSurfaces: 0
+  HiddenSurfaceRangeMin: 0.02
+  HiddenSurfaceRangeMax: 0.005
+  UnwindHiddenSurfacesByOne: 1
+  StripMorphs: 1
+  StripMorphsFromClothing: 1
+  TrimOrphanVertices: 0
+  OptimiseMesh: 1
+  OptimiseGameObjects: 1
+  Shaders: 0
+  MergeDuplicateCharacterMaterials: 1
+  MergeDuplicateClothingMaterials: 1
+  AtlasTextures: 0
+  AtlasResolution: 1024
+  StripTextures: 0
+  IncludeAlbedo: 1
+  IncludeNormal: 1
+  IncludeSpecular: 0
